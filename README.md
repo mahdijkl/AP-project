@@ -1,2 +1,2 @@
-# AP-project
+# AP-projects
 Advance Programming Course project
